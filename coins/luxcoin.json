@@ -1,0 +1,6 @@
+{
+    "name": "luxcoin",
+    "symbol": "LUX",
+    "algorithm": "phi1612",
+    "txMessages": true
+}
